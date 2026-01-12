@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "from-big-wins-to-bigger-plans--horizon-heads-into-natda-2025",
+    "author": "Horizon Trailers",
+    "authorImg": "",
+    "body": "It’s wild how fast a year can go by. One moment we’re wrapping up last year’s show, and the next we’re loading up trailers and heading back to Nashville. In between, though, is where the good stuff happens; where we work hard, make memories, and grow together as a team and as a brand. The NATDA Trailer Show is always a highlight for us, and this year is no different...",
+    "date": 1724640000000,
+    "headerImg": "https://firebasestorage.googleapis.com/v0/b/horizontrailerswebpage-eec76.firebasestorage.app/o/blogImages%2Ffrom-big-wins-to-bigger-plans--horizon-heads-into-natda-2025.JPG?alt=media&token=aafdd56c-cf50-4062-894d-99504f7b3c3a",
+    "seo": {
+      "description": "It’s wild how fast a year can go by. One moment we’re wrapping up last year’s show, and the next we’re loading up trailers and heading back to Nashville. In between, though, is where the good stuff happens...",
+      "image": "",
+      "keywords": [
+        "natda",
+        "trailer",
+        "show",
+        "2025 natda",
+        "horizon",
+        "trailers"
+      ]
+    },
+    "tags": [
+      "natda 2025",
+      "horizon trailers",
+      "natda trailer show"
+    ],
+    "title": "FROM BIG WINS TO BIGGER PLANS: HORIZON HEADS INTO NATDA 2025",
+    "views": 108
+  },
+  {
+    "slug": "sample-blog-post",
+    "author": "Isaac",
+    "authorImg": "",
+    "body": "<p>This is a sample blog post to demonstrate the RSS feed implementation. Every detail matters when it comes to quality trailers.</p>",
+    "date": 1736630400000,
+    "headerImg": "/og-banner.webp",
+    "seo": {
+      "description": "Learn more about quality trailers in our sample blog post."
+    },
+    "tags": [
+      "quality",
+      "trailers"
+    ],
+    "title": "Sample Blog Post for RSS Testing",
+    "views": 10
+  }
+]
